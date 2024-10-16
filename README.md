@@ -7,4 +7,4 @@
 |  5  |            [Error correction #1 - Hamming Code](https://www.codewars.com/kata/5ef9ca8b76be6d001d5e1c3e/csharp)            |  [C++](https://github.com/justShard/data-security/blob/main/LR5.cpp)  |  +   |
 |  6  |                    [Decode the QR-Code](https://www.codewars.com/kata/5ef9c85dc41b4e000f9a645f/csharp)                    |    [C](https://github.com/justShard/data-security/blob/main/LR6.c)    |  +   |
 |  7  |                   [Discrete Log Problem](https://www.codingame.com/training/hard/discrete-log-problem)                    | [Python](https://github.com/justShard/data-security/blob/main/LR7.py) | 6/6  |
-|  8  |                                                   CFB (Cipher Feedback)                                                   |   [C#](https://github.com/justShard/data-security/blob/main/LR8.cs)   |  +   |
+|  8  |                                            Advanced Encryption Standard (AES)                                             |   [C#](https://github.com/justShard/data-security/blob/main/LR8.cs)   |  +   |
